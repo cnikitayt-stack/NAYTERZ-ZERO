@@ -1,7 +1,9 @@
 # NAYTERZ ZERO
 
-Official public releases of NAYTERZ ZERO for Windows.
+Официальные установочные релизы NAYTERZ ZERO для Windows 10/11 x64.
 
-Download the latest executable from the [Releases](https://github.com/cnikitayt-stack/NAYTERZ-ZERO/releases/latest) page and verify it against `SHA256SUMS.txt`.
+Скачайте `NAYTERZ_ZERO_Setup_*.exe` на странице [Releases](https://github.com/cnikitayt-stack/NAYTERZ-ZERO/releases/latest). Установщик позволяет выбрать папку, создаёт ярлык на рабочем столе и подходит для установки, обновления и восстановления удалённых файлов. Контрольная сумма опубликована рядом в `SHA256SUMS.txt`.
 
-Purchase and subscription management: [@Nayterz7_bot](https://t.me/Nayterz7_bot).
+Сама программа не запрашивает права администратора автоматически. Для работы бустера пинга запустите ярлык NAYTERZ ZERO от имени администратора через контекстное меню Windows.
+
+NAYTERZ ZERO создана Nayterz и предназначена для приватного использования. Купить или продлить доступ можно в Telegram-боте [@Nayterz7_bot](https://t.me/Nayterz7_bot).
